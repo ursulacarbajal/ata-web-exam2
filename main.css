@@ -1,0 +1,12 @@
+.jumbotron{
+    background-image: url(../ursula/PF3.jpg);
+    background-repeat: repeat-y;
+}
+.audio-buttons{
+    display: flex;
+    justify-content: space-between;
+}
+
+body{
+    background-image:url(../ursula/pink_floyd.jpg);
+}
